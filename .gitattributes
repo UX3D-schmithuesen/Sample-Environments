@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2024 Khronos Group
+#
+# SPDX-License-Identifier: Apache-2.0
+
 # Turn off text-based EOL adaptations for various image formats.
 *.jpg binary
 *.png binary

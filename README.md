@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2024 Khronos Group
+
+SPDX-License-Identifier: Apache-2.0
+-->
+
 Sample environments for the glTF 2.0 Sample Viewer
 ==================================================
 

@@ -1,3 +1,7 @@
+REM SPDX-FileCopyrightText: 2024 Khronos Group
+REM
+REM SPDX-License-Identifier: Apache-2.0
+
 echo off
 SETLOCAL ENABLEDELAYEDEXPANSION
 
